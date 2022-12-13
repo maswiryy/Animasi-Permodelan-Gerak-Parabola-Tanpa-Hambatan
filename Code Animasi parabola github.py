@@ -1,8 +1,5 @@
 """ Sebuah program untuk membuat animasi simulasi gerak parabola yang ketinggian dan sudut elevasinya ditentukan oleh input user.
-
-https://www.facebook.com/maswiry
-https://www.instagram.com/maswiry/
-github.com/maswiry"""
+#maswiryy
 
 import math
 from math import sin, cos, radians
