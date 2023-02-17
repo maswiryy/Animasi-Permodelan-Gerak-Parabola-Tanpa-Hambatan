@@ -1,4 +1,4 @@
-""" Sebuah program untuk membuat animasi simulasi gerak parabola yang ketinggian dan sudut elevasinya ditentukan oleh input user.
+""" Sebuah program untuk membuat animasi simulasi gerak parabola yang kecepatan dan sudut elevasinya ditentukan oleh input user.
 #maswiryy
 
 import math
